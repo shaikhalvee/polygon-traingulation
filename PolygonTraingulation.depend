@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491742194 source:d:\buet\cse_464_computational_geometry_sessional\feb 2017\offline 2\code\1205046\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\buet\cse_464_computational_geometry_sessional\feb 2017\offline 2\code\1205046\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
